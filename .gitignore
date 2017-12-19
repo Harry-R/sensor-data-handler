@@ -1,0 +1,6 @@
+# Linux / KDE
+.directory
+
+# JetBrains
+*.idea
+*.iml
